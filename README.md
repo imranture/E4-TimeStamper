@@ -7,8 +7,8 @@ E4 wristband is a medical-grade wearable device that offers real-time physiologi
 E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
 
 ## Download
-Windows: Avaliable! Download from this link.\
-Mac: Not yet, but soon!
+**Windows**: Avaliable! Download from this link.\
+**Mac**: Not yet, but soon!
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
@@ -29,9 +29,10 @@ When you are ready, click **Run** button. Once it is done, you can find your E4 
 Remember that E4 files are usually very large files, so timestamping process may take a while depending the number of selected files. Please be patient. It will do the heavy job for you.
 
 ## License
-This software is an open-source project released under GNU General Public License v3.0. You are free to use and distribute it with suitable citation. Keep in mind that there is no warranty and please do not claim this work as your own.
+This software is an open-source project released under GNU General Public License v3.0. You are free to use and distribute it with suitable citation. Keep in mind that there is no warranty, and please do not claim this work as your own.\
+Please review the [license file](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE) for more.
 
 ## Contact
-Please do not hesitate contact if you require further information about the software, find any issues or just want to say thanks.
-Email: imran at alumni.rutgers.edu
-Website: https://imranture.com/
+Please do not hesitate to contact me if you require further information about the software, find any issues or just want to say thanks.\
+**Email**: imran at alumni.rutgers.edu\
+**Website**: https://imranture.com/
