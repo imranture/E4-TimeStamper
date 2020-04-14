@@ -3,12 +3,15 @@ E4 TimeStamper helps researchers to automatically add timestamps to physiologica
 
 E4 wristband is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica's website](https://www.empatica.com) to learn more.
 
-## Download
-**Windows**: Avaliable! Download from this link.\
-**Mac**: Not yet, but soon!
-
 ## How does it work? 
 E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
+
+## Download
+**Windows**: Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/E4-TimeStamper.exe).\
+**Mac**: Not yet, but soon!
+
+## Installation
+Double click *E4-Stamper.exe* to install the software to your desktop. Open the installed folder and double click *E4-TimeStamper_v00.exe* to run the software.
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
