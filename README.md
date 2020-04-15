@@ -11,11 +11,11 @@ E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps eac
 **Mac**: Not yet, but soon!
 
 ## Installation
-Double click *E4-Stamper.exe* to install the software to your desktop. Open the installed folder and double click *E4-TimeStamper_v00.exe* to run the software.
+Double click `E4-Stamper.exe` to install the software to your desktop. Open the installed folder and double click `E4-TimeStamper_v00.exe` to run the software.
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
-Click Browse button and select only E4 zip file(s) containing physiological data you want to timestamp.
+Click `Browse` button and select only E4 zip file(s) containing physiological data you want to timestamp.
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/select_e4_zip_files.gif"/>
 
 #### Step 2:  Choose timezone
@@ -27,7 +27,7 @@ Specify the format of how physiological data should be timestamped. You may refe
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/enter_date_and_time_formats.gif"/>
 
 #### Final Step: Run!
-When you are ready, click **Run** button. Once it is done, you will receive a warning message informing that your E4 Files with timestamps are created in their relevant folders within the same directory with your selected E4 zip file(s).
+When you are ready, click `Run` button. Once it is done, you will receive a warning message informing that your E4 Files with timestamps are created in their relevant folders within the same directory with your selected E4 zip file(s).
 
 Remember that E4 files are usually very large files, so timestamping process may take a while depending the number of selected files. Please be patient. It will do the heavy job for you.
 
@@ -41,5 +41,5 @@ Please review the [license file](https://github.com/imranture/E4-TimeStamper/blo
 
 ## Contact
 Please do not hesitate to contact me if you require further information about the software, find any issues or just want to say thanks.\
-**Email**: imran at alumni.rutgers.edu\
+**Email**: `imran at alumni.rutgers.edu`\
 **Website**: https://imranture.com/
