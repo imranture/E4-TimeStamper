@@ -1,7 +1,5 @@
-# E4 TimeStamper
+<h1> <img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png'> E4 TimeStamper </h1>
 E4 TimeStamper helps researchers to automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
-
-E4 wristband is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
 
 ## How does it work? 
 E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
@@ -38,6 +36,10 @@ Remember that E4 files are usually very large files, so timestamping process may
 ## License
 This software is an open-source project released under GNU General Public License v3.0. You are free to use and distribute it with suitable citation. Keep in mind that there is no warranty, and please do not claim this work as your own.\
 Please review the [license file](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE) for more.
+
+E4 wristband is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
+
+<img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png' height="32" width="32"> made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ## Contact
 Please do not hesitate to contact me if you require further information about the software, find any issues or just want to say thanks.\
