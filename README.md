@@ -11,7 +11,7 @@ E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps eac
 **Windows**: Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/E4-TimeStamper.exe).\
 **Mac**: Not yet, but soon!
 
-Double click `E4-Stamper.exe` to install the software to your desktop. Open the installed folder and double click `E4-TimeStamper_v00.exe` to run the software.
+Double click `E4-Stamper.exe` to install the software to your desktop. Open the installed folder and -in the folder- double click `E4-TimeStamper.exe` to run the software.
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
