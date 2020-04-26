@@ -36,7 +36,7 @@ Remember that E4 files are usually very large files, so timestamping process may
 ---
 
 ## License
-This software is an open-source project released under GNU General Public License v3.0. You are free to use and distribute it with suitable citation. Keep in mind that there is no warranty, and please do not claim this work as your own. Please review the [license file](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE) for more.
+This software is an open-source project released under GNU General Public License v3.0. You are free to use and distribute it with suitable citation. Keep in mind that there is no warranty, and please do not claim this work as your own. Please review the [license](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE) for more.
 
 E4 wristband is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
 
