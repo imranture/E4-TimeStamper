@@ -36,13 +36,11 @@ Remember that E4 files are usually very large files, so timestamping process may
 ---
 
 ## License
-This software is an open-source project released under GNU General Public License v3.0. 
-
-This software is provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
+This software is an open-source project released under GNU General Public License v3.0, provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.\
 In no event shall the author be held liable for any damages arising from the use of this software.
 
 Permission is granted to anyone to use this software for any purpose, including commercial applications, and 
-to modify and redistribute it under the terms of the GNU General Public License v3.0, provided that the following conditions are met:
+to modify and redistribute it provided that the following conditions are met:
 
 1. All redistributions of source code files must retain all copyright notices that are currently in
    place, and this list of conditions without modification.
@@ -62,7 +60,7 @@ Please review the [license](https://github.com/imranture/E4-TimeStamper/blob/mas
 Except where otherwise noted, all of the documentation and software is copyrighted by Imran Ture.\
 Copyright &copy; 2020 Imran Ture
 
-E4 wristband is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
+E4 wristband, developed by Empatica, is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
 
 <img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png' height="32" width="32"> made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
