@@ -18,8 +18,8 @@ Double click `E4-TimeStamper_Installer_v0-2.exe` and follow the instructions to 
 Click `Browse` button and select only E4 zip file(s) containing physiological data you want to timestamp.
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/select_e4_zip_files.gif"/>
 
-#### Step 2:  Choose timezone
-Choose timezone based on the location where physiological data was collected.
+#### Step 2:  Choose (or type) timezone
+Choose (or type) timezone based on the location where physiological data was collected.
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/choose_timezone.gif"/>
 
 #### Step 3:  Enter date and time formats
