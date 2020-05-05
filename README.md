@@ -1,6 +1,6 @@
 <h1><img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png'> E4 TimeStamper</h1>
 
-[![version](https://img.shields.io/github/v/release/imranture/E4-TimeStamper?include_prereleases)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.0-beta)
+[![version](https://img.shields.io/github/v/release/imranture/E4-TimeStamper?include_prereleases)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.1-beta)
 
 E4 TimeStamper helps researchers to automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
 
@@ -8,7 +8,7 @@ E4 TimeStamper helps researchers to automatically add timestamps to physiologica
 E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
 
 ## Download & Installation
-**Windows**: Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/blob/master/setup/E4-TimeStamper_Installer_v0-1.exe).\
+**Windows**: Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/E4-TimeStamper_Installer_v0-1.exe).\
 Double click `E4-TimeStamper_Installer_v0-1.exe` and follow the instructions to install E4 TimeStamper.
 
 **Mac**: Not yet, but soon!
@@ -36,7 +36,7 @@ Remember that E4 files are usually very large files, so timestamping process may
 ---
 
 ## License
-This software is an open-source project released under GNU General Public License v3.0, provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.\
+This software is an open-source project released under [GNU General Public License v3.0](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE), provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.\
 In no event shall the author be held liable for any damages arising from the use of this software.
 
 Permission is granted to anyone to use this software for any purpose, including commercial applications, and 
@@ -46,7 +46,7 @@ to modify and redistribute it provided that the following conditions are met:
    place, and this list of conditions without modification.
 
 2. All redistributions in binary form must retain all occurrences of the above copyright notice and
-   web site addresses that are currently in place (See About).
+   web site addresses that are currently in place.
 
 3. The origin of this software must not be misrepresented; you must not claim that you wrote the
    original software. If you use this software to distribute a product, an acknowledgment in the
@@ -54,8 +54,6 @@ to modify and redistribute it provided that the following conditions are met:
 
 4. Modified versions in source or binary form must be plainly marked as such, and must not be
    misrepresented as being the original software.
-
-Please review the [license](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE) for more.
 
 Except where otherwise noted, all of the documentation and software is copyrighted by Imran Ture.\
 Copyright &copy; 2020 Imran Ture
