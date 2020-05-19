@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/github/v/release/imranture/E4-TimeStamper?include_prereleases)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta)
 
-#### *E4 TimeStamper helps researchers to automatically add timestamps to physiological data<br>derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).*
+#### *E4 TimeStamper helps researchers to automatically add timestamps to<br>physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).*
 
 ## How does it work? 
 E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
