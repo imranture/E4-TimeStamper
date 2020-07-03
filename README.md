@@ -32,7 +32,7 @@ When you are ready, click `Run` button. Once it is done, you will receive a warn
 Remember that E4 files are usually very large files, so timestamping process may take a while depending the number of selected files. Please be patient. It will do the heavy job for you.
 
 ---
-### Do you like it? Consider buying me a coffee: https://www.buymeacoffee.com/imran
+### Do you like it? Support via https://www.buymeacoffee.com/imran
 ---
 
 ## License
