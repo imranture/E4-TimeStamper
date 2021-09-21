@@ -2,6 +2,7 @@
 
 [![version](https://img.shields.io/github/v/release/imranture/E4-TimeStamper?include_prereleases)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta)
 
+## What is it?
 E4 TimeStamper helps researchers to automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
 
 ## How does it work? 
