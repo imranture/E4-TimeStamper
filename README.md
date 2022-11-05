@@ -3,17 +3,15 @@
 [![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) [![version](https://img.shields.io/badge/release-macOS%20v0.1-red)](https://github.com/imranture/E4-TimeStamper/releases/tag/maOS-v0.1-beta)
 
 ## What is it?
-E4 TimeStamper helps researchers to automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
+E4 TimeStamper automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/) for you.
 
 ## How does it work? 
 E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
 
 ## Download & Installation
-**Windows**: Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/win/E4-TimeStamper_Installer_v0-3.exe).\
-Double click `E4-TimeStamper_Installer_v0-3.exe` and follow the instructions to install E4 TimeStamper.
+**`Windows`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/win/E4-TimeStamper_Installer_v0-3.exe). Double click `E4-TimeStamper_Installer_v0-3.exe` and follow the instructions to install E4 TimeStamper.
 
-**Mac**: Finally Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/mac/E4-TimeStamper_macOS_v0-1.zip).\
-Unzip `E4-TimeStamper_macOS_v0-1.zip` and just drag the file to Applications folder.
+**`macOS`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/mac/E4-TimeStamper_macOS_v0-1.zip). Just unzip `E4-TimeStamper_macOS_v0-1.zip` and drag the app file to Applications folder.
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
