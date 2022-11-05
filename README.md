@@ -1,6 +1,6 @@
 <h1><img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png'> E4 TimeStamper</h1>
 
-[![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) ![version](https://img.shields.io/badge/release-macOS%20v0.1-red)
+[![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) [![version](https://img.shields.io/badge/release-macOS%20v0.1-red)](https://github.com/imranture/E4-TimeStamper/releases/tag/maOS-v0.1-beta)
 
 ## What is it?
 E4 TimeStamper helps researchers to automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
