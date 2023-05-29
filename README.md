@@ -11,19 +11,22 @@ E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps eac
 ## Download & Installation
 **`Windows`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/win/E4-TimeStamper_Installer_v0-3.exe). Double click `E4-TimeStamper_Installer_v0-3.exe` and follow the instructions to install E4 TimeStamper.
 
-**`macOS`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/mac/E4-TimeStamper_macOS_v0-1.zip). Just unzip `E4-TimeStamper_macOS_v0-1.zip` and drag the app file to Applications folder.
+**`macOS`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/mac/E4-TimeStamper_macOS_v0-1.zip). Unzip `E4-TimeStamper_macOS_v0-1.zip` and drag the app file to Applications folder.
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
 Click `Browse` button and select only E4 zip file(s) containing physiological data you want to timestamp.
+
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/select_e4_zip_files.gif"/>
 
 #### Step 2:  Choose (or type) timezone
 Choose (or type) timezone based on the location where physiological data was collected.
+
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/choose_timezone.gif"/>
 
 #### Step 3:  Enter date and time formats
 Specify the format of how physiological data should be timestamped. You may refer to [this cheatsheet](https://devhints.io/datetime) to learn how to do formatting.
+
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/enter_date_and_time_formats.gif"/>
 
 #### Final Step: Run!
