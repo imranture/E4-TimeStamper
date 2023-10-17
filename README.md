@@ -1,30 +1,32 @@
 <h1><img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png'> E4 TimeStamper</h1>
 
-[![version](https://img.shields.io/github/v/release/imranture/E4-TimeStamper?include_prereleases)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta)
+[![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) [![version](https://img.shields.io/badge/release-macOS%20v1.0-red)](https://github.com/imranture/E4-TimeStamper/releases/tag/macOS-v1.0)
 
 ## What is it?
-E4 TimeStamper helps researchers to automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
+E4 TimeStamper automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
 
 ## How does it work? 
-E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on prefereed timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
+E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on preferred timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
 
 ## Download & Installation
-**Windows**: Avaliable! Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/E4-TimeStamper_Installer_v0-3.exe).\
-Double click `E4-TimeStamper_Installer_v0-3.exe` and follow the instructions to install E4 TimeStamper.
+**`Windows`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/win/E4-TimeStamper_Installer_v0-3.exe). Double click `E4-TimeStamper_Installer_v0-3.exe` and follow the instructions to install E4 TimeStamper.
 
-**Mac**: Not yet, but soon!
+**`macOS`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/mac/E4-TimeStamper_macOS_v1-0.zip). Unzip `E4-TimeStamper_macOS_v1-0.zip` and drag the app file to Applications folder. Tested on macOS Sonoma 14.0!
 
 ## Instructions
 #### Step 1:  Select E4 zip file(s)
 Click `Browse` button and select only E4 zip file(s) containing physiological data you want to timestamp.
+
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/select_e4_zip_files.gif"/>
 
 #### Step 2:  Choose (or type) timezone
 Choose (or type) timezone based on the location where physiological data was collected.
+
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/choose_timezone.gif"/>
 
 #### Step 3:  Enter date and time formats
 Specify the format of how physiological data should be timestamped. You may refer to [this cheatsheet](https://devhints.io/datetime) to learn how to do formatting.
+
 <img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/enter_date_and_time_formats.gif"/>
 
 #### Final Step: Run!
