@@ -1,4 +1,4 @@
-<h1><img src='https://github.com/imranture/E4-TimeStamper/blob/master/logo.png'> E4 TimeStamper</h1>
+<h1><img width = 75 height = 75 src='https://github.com/imranture/E4-TimeStamper/blob/master/image/e4timestamper-logo-12012024.png'> E4 TimeStamper</h1>
 
 [![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) [![version](https://img.shields.io/badge/release-macOS%20v1.0-red)](https://github.com/imranture/E4-TimeStamper/releases/tag/macOS-v1.0)
 
