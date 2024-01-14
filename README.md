@@ -63,7 +63,7 @@ Copyright &copy; 2020 Imran Ture
 
 E4 wristband, developed by Empatica, is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
 
-The logo <img width = 25 height = 25 src="https://github.com/imranture/E4-TimeStamper/blob/master/image/e4timestamper-logo-12012024.png"> was created with DALL·E 3 using <a target="_blank" href="https://chat.openai.com/g/g-gFt1ghYJl-logo-creator" title="Logo Creator GPT">Logo Creator</a>.
+The logo <img width = 25 height = 25 src="https://github.com/imranture/E4-TimeStamper/blob/master/image/e4timestamper-logo-12012024.png"> was created with DALL·E 3.
 
 ## Contact
 Please do not hesitate to contact me if you require further information about the software, find any issues, or just want to say thanks.\
