@@ -66,6 +66,6 @@ E4 wristband, developed by Empatica, is a medical-grade wearable device that off
 The logo <img width = 25 height = 25 src="https://github.com/imranture/E4-TimeStamper/blob/master/image/e4timestamper-logo-12012024.png"> was created with DALL·E 3.
 
 ## Contact
-Please do not hesitate to contact me if you require further information about the software, find any issues, or just want to say thanks.\
+Please do not hesitate to contact me if you require further information, find any issues, or just want to say thanks.\
 **Email**: `imran at alumni.rutgers.edu`\
-**Website**: https://imranture.com/
+**Website**: www.imranture.com.
