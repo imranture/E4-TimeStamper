@@ -1,38 +1,41 @@
-<h1><img width = 55 height = 55 src="https://github.com/imranture/E4-TimeStamper/blob/master/image/e4timestamper-logo-12012024.png"> E4 TimeStamper</h1>
+# <img width = 55 height = 55 src="https://github.com/imranture/E4-TimeStamper/blob/master/image/e4timestamper-logo-12012024.png"> E4 TimeStamper
 
-[![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) [![version](https://img.shields.io/badge/release-macOS%20v1.0-red)](https://github.com/imranture/E4-TimeStamper/releases/tag/macOS-v1.0)
+[![version](https://img.shields.io/badge/release-win%20v0.4-blue)](https://github.com/imranture/E4-TimeStamper/releases/tag/v0.3-beta) [![version](https://img.shields.io/badge/release-macOS%20v1.0-red)](https://github.com/imranture/E4-TimeStamper/releases/tag/macOS-v1.0) [![version](https://img.shields.io/badge/Web%20Version-v1.0-green)](https://e4timestamper.netlify.app)
 
 ## What is it?
-E4 TimeStamper automatically add timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
+[E4 TimeStamper](https://e4timestamper.netlify.app) automatically adds timestamps to physiological data derived from Empatica's [E4 wristbands](https://www.empatica.com/research/e4/).
 
 ## How does it work? 
-E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on preferred timezone and date & time format, following the [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-) provided by Empatica.
+E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps each sample in each physiological data file (ACC.csv, BVP.csv, EDA.csv, HR.csv, IBI.csv and TEMP.csv) based on preferred timezone and date & time format, following Empatica's official [guideline](https://support.empatica.com/hc/en-us/articles/201608896-Data-export-and-formatting-from-E4-connect-).
 
-## Download & Installation
+## Features
+
+- 🌐 Web-Based: Access directly through your browser
+- 🔒 Privacy First: All processing happens locally on your device
+- 💻 Cross-Platform: Works on any device with a modern web browser
+- ⚡ Real-time Processing: Monitor progress as files are processed
+- 🔄 Batch Processing: Process multiple files at once
+- 📱 Responsive Design: Optimized for all screen sizes
+- 🌓 Dark/Light Mode: Choose your preferred theme
+
+## Quick Start Guide
+
+1. **Visit the Website**: Go to [e4timestamper.netlify.app](https://e4timestamper.netlify.app)
+2. **Upload E4 Zip Files**: Click the "Browse..." button to select one or more E4 zip files
+3. **Set Timezone**: Choose your preferred timezone from the dropdown or type to search
+4. **Define Date/Time Format**: Define a format for the timestamps or enter your own
+5. **Run Processing**: Click the "RUN" button to start processing
+6. **Download Results**: Processed files will be automatically downloaded when complete
+
+## Legacy Desktop Versions
+The desktop versions are no longer maintained. The web version is recommended for the latest features and improvements.
+For historical reference:
+
 **`Windows`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/win/E4-TimeStamper_Installer_v0-3.exe). Double click `E4-TimeStamper_Installer_v0-3.exe` and follow the instructions to install E4 TimeStamper.
 
 **`macOS`** : Download from [this link](https://github.com/imranture/E4-TimeStamper/raw/master/setup/mac/E4-TimeStamper_macOS_v1-0.zip). Unzip `E4-TimeStamper_macOS_v1-0.zip` and drag the app file to Applications folder. Tested on macOS Sonoma 14.0!
 
-## Instructions
-#### Step 1:  Select E4 zip file(s)
-Click `Browse` button and select only E4 zip file(s) containing physiological data you want to timestamp.
 
-<img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/select_e4_zip_files.gif"/>
-
-#### Step 2:  Choose (or type) timezone
-Choose (or type) timezone based on the location where physiological data was collected.
-
-<img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/choose_timezone.gif"/>
-
-#### Step 3:  Enter date and time formats
-Specify the format of how physiological data should be timestamped. You may refer to [this cheatsheet](https://devhints.io/datetime) to learn how to do formatting.
-
-<img src="https://github.com/imranture/E4-TimeStamper/blob/master/instructions/enter_date_and_time_formats.gif"/>
-
-#### Final Step: Run!
-When you are ready, click `Run` button. Once it is done, you will receive a warning message informing that your E4 Files with timestamps are created in their relevant folders within the same directory with your selected E4 zip file(s).
-
-Remember that E4 files are usually very large files, so timestamping process may take a while depending the number of selected files. Please be patient. It will do the heavy job for you.
 
 ---
 ### Do you like it? Support via https://www.buymeacoffee.com/imran
