@@ -12,9 +12,9 @@ E4 TimeStamper extracts selected E4 zip file(s) and automatically timestamps eac
 
 - 🌐 Web-Based: Access directly through your browser
 - 🔒 Privacy First: All processing happens locally on your device
-- 💻 Cross-Platform: Works on any device with a modern web browser
 - ⚡ Real-time Processing: Monitor progress as files are processed
 - 🔄 Batch Processing: Process multiple files at once
+- 💻 Cross-Platform: Works on any device with a modern web browser
 - 📱 Responsive Design: Optimized for all screen sizes
 - 🌓 Dark/Light Mode: Choose your preferred theme
 
@@ -42,7 +42,8 @@ For historical reference:
 ---
 
 ## License
-This software is an open-source project released under [GNU General Public License v3.0](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE), provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.\
+This application is an open-source project released under [GNU General Public License v3.0](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE), provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.
+
 In no event shall the author be held liable for any damages arising from the use of this software.
 
 Permission is granted to anyone to use this software for any purpose, including commercial applications, and 
@@ -54,15 +55,15 @@ to modify and redistribute it provided that the following conditions are met:
 2. All redistributions in binary form must retain all occurrences of the above copyright notice and
    web site addresses that are currently in place.
 
-3. The origin of this software must not be misrepresented; you must not claim that you wrote the
-   original software. If you use this software to distribute a product, an acknowledgment in the
+3. The origin of this application must not be misrepresented; you must not claim that you wrote the
+   original application. If you use this application to distribute a product, an acknowledgment in the
    product documentation would be appreciated.
 
 4. Modified versions in source or binary form must be plainly marked as such, and must not be
-   misrepresented as being the original software.
+   misrepresented as being the original application.
 
 Except where otherwise noted, all of the documentation and software is copyrighted by Imran Ture.\
-Copyright &copy; 2020 Imran Ture
+Copyright &copy; 2020 - 2025 Imran Ture
 
 E4 wristband, developed by Empatica, is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
 
