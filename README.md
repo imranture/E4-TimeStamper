@@ -44,9 +44,9 @@ For historical reference:
 ## License
 This application is an open-source project released under [GNU General Public License v3.0](https://github.com/imranture/E4-TimeStamper/blob/master/LICENSE), provided "as-is," without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose.
 
-In no event shall the author be held liable for any damages arising from the use of this software.
+In no event shall the author be held liable for any damages arising from the use of this application.
 
-Permission is granted to anyone to use this software for any purpose, including commercial applications, and 
+Permission is granted to anyone to use this application for any purpose, including commercial applications, and 
 to modify and redistribute it provided that the following conditions are met:
 
 1. All redistributions of source code files must retain all copyright notices that are currently in
@@ -62,7 +62,7 @@ to modify and redistribute it provided that the following conditions are met:
 4. Modified versions in source or binary form must be plainly marked as such, and must not be
    misrepresented as being the original application.
 
-Except where otherwise noted, all of the documentation and software is copyrighted by Imran Ture.\
+Except where otherwise noted, all of the documentation and application is copyrighted by Imran Ture.\
 Copyright &copy; 2020 - 2025 Imran Ture
 
 E4 wristband, developed by Empatica, is a medical-grade wearable device that offers real-time physiological data acquisition, enabling researchers to conduct in-depth analysis and visualization. Please visit [Empatica](https://www.empatica.com) to learn more.
